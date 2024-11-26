@@ -1,5 +1,12 @@
+const { Children } = require("react")
+
 function btn_reusable(params) {
+    let onclick = ()=>{
+
+    }
     return(
-        <button></button>
+        <button onClick={onclick}>
+            {Children}
+        </button>
     )
 }
