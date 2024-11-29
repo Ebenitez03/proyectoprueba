@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-      <Btn_reusable params="Try"> Try</Btn_reusable>
+      <Btn_reusable params="Try"></Btn_reusable>
       </div>
     </>
   )
